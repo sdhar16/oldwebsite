@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # About Me
-I am Shreedhar Govil, recently graduated with Bachelors in Computer Science and Applied Mathermatics from IIIT-Delhi. I am actively looking for challenging roles in **Software Development**, **Artificial Intelligence** and **Machine Learning**. I also have interests in **Linux**, **Cybersecurity** and **UI/UX**. 
+I am Shreedhar Govil, recently graduated with Bachelors in Computer Science and Applied Mathematics from IIIT-Delhi. I am actively looking for challenging roles in **Software Development**, **Artificial Intelligence** and **Machine Learning**. I also have interests in **Linux**, **Cybersecurity** and **UI/UX**. 
 
 # Programming Skills
 * **Languages**: JAVA, Python, C++, MATLAB, HTML, R
