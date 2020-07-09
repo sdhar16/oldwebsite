@@ -2,7 +2,7 @@ title: Shreedhar Govil
 description: Personal website of Shreedhar Govil
 url: "https://sdhar16.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
