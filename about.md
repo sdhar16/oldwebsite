@@ -49,7 +49,7 @@ I am Shreedhar Govil, recently graduated with Bachelors in Computer Science and 
 * **Facial Recognition of Macaque Rhesus**: 
     Facial recognition of Macaque Rhesus (Monkeys) using CNN and SVM in python.
 
-* [**New Aggregator**]({{ site.baseurl }}/news):
+* **New Aggregator**:
     News Aggregator that uses my favorite sources. Extracts, processes and displays them using RSS feeds, JavaScript, and HTML.
 
 * **Event Based Audio Classification**: 
